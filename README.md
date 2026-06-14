@@ -27,8 +27,8 @@ Track 3: DeFi, Stablecoins & Real-World Assets & Track 5: Social Impact
 ## Setup & Run
 ```bash
 # Clone the repository
-git clone https://github.com/ALGOREX-PH/StellarX-Workshop-PUP-May-2026.git
-cd StellarX-Workshop-PUP-May-2026
+git clone https://github.com/QuackyPROG/TituloChain.git
+cd TituloChain
 
 # 1. Build and Deploy Contracts
 .\scripts\deploy.ps1 # Windows
