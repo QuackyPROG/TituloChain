@@ -48,3 +48,9 @@ A monorepo scaffold for the StellarX PH workshop @ PUP QC. Two parts:
 - UI: `web/src/components/*`, wired in `web/src/app/page.tsx`
 - Contract: `contracts/savings-goal/src/lib.rs` (+ `test.rs`)
 - Deploy: `scripts/deploy.ps1` (Windows) / `scripts/deploy.sh`
+
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read the current plan
+at `specs/001-titulochain-dapp/plan.md`.
+<!-- SPECKIT END -->

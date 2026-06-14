@@ -13,9 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StellarX Starter — PUP Workshop",
-  description: "Wallet, payments, and a Soroban contract on Stellar testnet.",
+  title: "TituloChain — Secure Land Title Verification",
+  description: "Secure Philippine land title encumbrance verification service powered by Stellar & Soroban.",
 };
+
 
 export default function RootLayout({
   children,
